@@ -104,8 +104,9 @@ Key Features of IntripperMap are:
   s.exclude_files = "Classes/Exclude"
   s.subspec 'Versions' do |versions|
   versions.source_files = 'InTripper.framework/Versions/1_1/Headers/*.{h,m}'
+  versions.resources = 'InTripper.framework/Versions/1_1/Resources/*'
   end
-  
+
 
   # s.public_header_files = "Classes/**/*.h"
 
