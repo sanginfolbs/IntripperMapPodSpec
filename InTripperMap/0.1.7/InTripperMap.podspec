@@ -91,7 +91,7 @@ Key Features of IntripperMap are:
 
   s.source       = { :git => "https://github.com/sanginfolbs/IntripperMap.git", :tag => "0.1.7" }
 
-
+s.vendored_frameworks = 'InTripper.framework'
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  CocoaPods is smart about how it includes source code. For source files
