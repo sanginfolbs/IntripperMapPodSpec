@@ -120,7 +120,7 @@ s.vendored_frameworks = 'InTripper.framework'
   #
 
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+   s.resources = "InTripper.framework/Versions/1_1/Resources/IntripperBundle.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
