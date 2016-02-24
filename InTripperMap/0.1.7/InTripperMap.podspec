@@ -48,8 +48,8 @@ Key Features of IntripperMap are:
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "Copyright"
-  # s.license      = { :type => "Copyright", :file => "FILE_LICENSE" }
+#s.license      = "Copyright"
+s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copyright © 2016 Sanginfo. All rights reserved." }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
