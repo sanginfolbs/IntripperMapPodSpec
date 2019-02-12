@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "InTripperMap"
-  s.version      = "0.1.9"
+  s.version      = "0.1.10"
   s.summary      = "InTripperMap helps the developers to create indoor location based applications"
 
   # This description is used to generate tags and improve search results.
@@ -87,7 +87,7 @@ s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copy
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/sanginfolbs/intripperIosSdk.git", :tag => "4.0.5.beta1" }
+  s.source       = { :git => "https://github.com/sanginfolbs/IntripperMallSDK.git", :tag => "0.1.27" }
 
 s.vendored_frameworks = 'InTripper.framework'
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
