@@ -49,7 +49,7 @@ Key Features of IntripperMap are:
   #
 
 #s.license      = "Copyright"
-s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copyright © 2019 Sanginfo. All rights reserved." }
+s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copyright © 2019 Intripper. All rights reserved." }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
