@@ -87,7 +87,7 @@ s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copy
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-s.source       = { :git => "https://github.com/sanginfolbs/IntripperMallSDK.git", :tag => "0.1.40-beta4" }
+s.source       = { :git => "https://github.com/sanginfolbs/IntripperMallSDK.git", :tag => "0.1.40-beta5" }
 
 s.vendored_frameworks = 'InTripper.framework'
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
