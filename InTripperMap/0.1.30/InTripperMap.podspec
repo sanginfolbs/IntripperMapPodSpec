@@ -68,7 +68,7 @@ s.license      = { :type => "Copyright", :file => "FILE_LICENSE", :text=> " Copy
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
 
-s.source       = { :git => "https://github.com/sanginfolbs/IntripperMallSDK.git", :tag => "0.1.40-beta13" }
+s.source       = { :git => "https://github.com/sanginfolbs/IntripperMallSDK.git", :tag => "0.1.40-beta14" }
 
 s.vendored_frameworks = 'InTripper.framework'
 
